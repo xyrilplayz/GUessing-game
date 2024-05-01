@@ -8,7 +8,7 @@ banner = """
 client_info = {}
 def generate_random_int(low, high):
     return random.randint(low, high)
-start = "You may star your guess"
+start = "You may start your guess"
 # initialize the socket object
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.bind((host, port))
