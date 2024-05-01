@@ -1,3 +1,10 @@
 Name: xyril, Attempts: 5, Difficulty: Easy
 Name: kristo, Attempts: 1, Difficulty: Easy
 Name: daiel, Attempts: 11, Difficulty: Hard
+Name: xyril, Attempts: 7, Difficulty: Easy
+Name: rovin, Attempts: 7, Difficulty: Easy
+Name: hai, Attempts: 6, Difficulty: Easy
+Name: wer, Attempts: 6, Difficulty: Easy
+Name: tres, Attempts: 9, Difficulty: Easy
+Name: peruere, Attempts: 13, Difficulty: Easy
+Name: tear, Attempts: 9, Difficulty: Easy
