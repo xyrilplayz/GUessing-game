@@ -57,7 +57,7 @@ while True:
                     conn.sendall(b"Guess Higher!\nenter guess:")
                     continue
         elif choice == 2:
-            level = "Easy"
+            level = "Medium"
             guessme = generate_random_int(1,100)
             client_info[client_name]["difficulty"] = level
             conn.sendall(start.encode())
@@ -82,7 +82,7 @@ while True:
                     conn.sendall(b"Guess Higher!\nenter guess:")
                     continue
         elif choice == 3:
-            level = "Easy"
+            level = "Hard"
             guessme = generate_random_int(1,500)
             client_info[client_name]["difficulty"] = level
             conn.sendall(start.encode())
