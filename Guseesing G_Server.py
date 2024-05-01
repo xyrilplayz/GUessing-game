@@ -5,7 +5,7 @@ host = "192.168.68.105"
 port = 7777
 banner = """
 == Guessing Game ==
-Enter your guess:"""
+\nEnter your guess:"""
 
 def generate_random_int(low, high):
     return random.randint(low, high)
