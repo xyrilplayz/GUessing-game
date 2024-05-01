@@ -1,2 +1,3 @@
 Name: xyril, Attempts: 5, Difficulty: Easy
 Name: kristo, Attempts: 1, Difficulty: Easy
+Name: daiel, Attempts: 11, Difficulty: Hard
